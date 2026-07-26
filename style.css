@@ -1,5 +1,5 @@
 body {
-    background-color: #605a5a;
+    background-color: #473f3f;
 
     
     
@@ -37,4 +37,9 @@ footer {
     text-align: center;
     font-size: 15px;
     margin-top: 100px;
+}
+
+a {
+    color: #5cf908;
+    text-decoration: none;
 }
